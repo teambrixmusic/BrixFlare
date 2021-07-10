@@ -6,10 +6,6 @@
 
 BitFlare was created by [@tijn](https://bitclout.com/u/tijn). Learn more about BitFlare [here](https://github.com/devclout/BitFlare).
 
-Want one? Click to Deploy!
-
-[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/devclout/BitFlare)
-
 # About BitClout
 BitClout is a blockchain built from the ground up to support a fully-featured social network. Its architecture is similar to Bitcoin, only it supports complex social network data like profiles, posts, follows, creator coin transactions, and more.
 
